@@ -11,3 +11,8 @@ $ pip install --upgrade pip
 $ pip install -r requirements.txt
 ```
 
+### for xgboost
+```
+$ brew install libomp
+```
+
